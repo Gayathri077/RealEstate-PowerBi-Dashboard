@@ -28,6 +28,3 @@ Dashboard Pages
 * State-Level Breakdown  : Number of properties and their condition (Very Good, Good, Bad).
 * Floor-Level Breakdown  : Conditions by floor count (1–3.5 floors).
 
-
-
-👉 Do you want me to **combine both into a single portfolio repo** (with subfolders for each project), or keep them in **separate repos**?
